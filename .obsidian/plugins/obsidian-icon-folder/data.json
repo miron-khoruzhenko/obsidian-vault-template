@@ -6,7 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiServer"
+      "FasUserGroup",
+      "LiUpload",
+      "LiSquarePen",
+      "FasBook",
+      "FasToolbox"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,5 +34,12 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "99_meta": "LiServer"
+  "99_meta": "LiServer",
+  "01_frontend": "FasDisplay",
+  "02_backend": "LiComputer",
+  "03_devtools": "FasToolbox",
+  "04_methodologies": "LiSquarePen",
+  "05_concepts": "FasBook",
+  "06_deployment": "LiUpload",
+  "07_seo-performance": "FasUserGroup"
 }

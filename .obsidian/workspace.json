@@ -4,27 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "2a58a77f02d20b07",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "4cb1fe5793b52a5c",
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_frontend/ui-ux/animations/anime.js/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "afdf1484f7be25c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_frontend/ui-ux/animations/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "587875832d05c9ed",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "99_meta/meta/homepage/index.canvas",
                 "viewState": {
-                  "x": 37.87474380002769,
-                  "y": 19.50098068639331,
-                  "zoom": -0.04635563569173979
+                  "x": 0,
+                  "y": -30.5,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -56,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#overview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +116,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -100,7 +130,7 @@
       {
         "id": "86d1f5c9955c5e4d",
         "type": "tabs",
-        "dimension": 21.668472372697725,
+        "dimension": 22.306238185255197,
         "children": [
           {
             "id": "2ab6c615f8033f31",
@@ -108,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_frontend/frameworks/nextjs/index.md",
+                "file": "01_frontend/ui-ux/ui-patterns/Modern Minimal UI/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_frontend/frameworks/nextjs/index.md",
+                "file": "01_frontend/ui-ux/ui-patterns/Modern Minimal UI/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -153,11 +183,10 @@
           {
             "id": "6af9200274a7976a",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01_frontend/frameworks/nextjs/index.md",
+                "file": "99_meta/meta/homepage/index.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,10 +210,9 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.9818178416392771,
-                  "close": false
+                  "close": true
                 }
               },
-              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph of index"
             }
@@ -195,22 +223,42 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-19 03.27.00.excalidraw.md",
+                "file": "01_frontend/ui-ux/ui-patterns/Modern Minimal UI/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-04-19 03.27.00.excalidraw"
+              "title": "Outline of index"
+            }
+          },
+          {
+            "id": "72a3c0579090b7e5",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "1aa92f628e3baa8a",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "15cf77c0f7575b14",
         "type": "tabs",
-        "dimension": 37.81148429035753,
+        "dimension": 37.14555765595463,
         "children": [
           {
             "id": "a5594009eacc8fc1",
@@ -229,14 +277,16 @@
       {
         "id": "8d6325fb783f988e",
         "type": "tabs",
-        "dimension": 40.52004333694475,
+        "dimension": 40.54820415879017,
         "children": [
           {
             "id": "3a401ab0c7e8e9bd",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "01_frontend/ui-ux/ui-patterns/modern-minimal-ui/index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,12 +309,13 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9818178416392771,
+                  "scale": 0.7353903112019934,
                   "close": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of index"
             }
           }
         ]
@@ -275,6 +326,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "quickadd:QuickAdd": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -285,47 +337,58 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "homepage:Open homepage": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "d963ead0218b6cab",
+  "active": "587875832d05c9ed",
   "lastOpenFiles": [
     "99_meta/meta/homepage/index.canvas",
-    "Untitled.canvas",
-    "99_meta/inbox/todos/todo-2025.04.19-02.03.md",
-    "99_meta/inbox/draft/draft-2025.04.19-04.29.md",
-    "99_meta/inbox/ideas/idea-2025.04.19-02.44.md",
-    "01_frontend/foundations/accessibility/index.md",
+    "01_frontend/ui-ux/animations/index.md",
+    "01_frontend/ui-ux/animations/anime.js/index.md",
+    "01_frontend/ui-ux/animations/anime.js",
+    "01_frontend/ui-ux/ui-libraries/radix-ui/index.md",
+    "01_frontend/ui-ux/ui-sources/icons/index.md",
+    "99_meta/source/Pasted image 20250420225002.png",
+    "99_meta/index.md",
+    "99_meta/inbox/index.md",
+    "99_meta/source/Pasted image 20250420224724.png",
+    "99_meta/inbox/watch-later/index.md",
+    "99_meta/inbox/watch-later",
+    "01_frontend/ui-ux/animations/best-practices.md",
+    "01_frontend/ui-ux/animations/cursify/index.md",
+    "01_frontend/ui-ux/ui-libraries/index.md",
+    "99_meta/source/Pasted image 20250420223928.png",
+    "01_frontend/ui-ux/ui-libraries/tailwindcss-plus/index.md",
+    "01_frontend/ui-ux/animations/cursify",
+    "01_frontend/ui-ux/animations/three.js/index.md",
+    "01_frontend/ui-ux/animations/framer-motion/examples.md",
+    "99_meta/source/Pasted image 20250420223641.png",
+    "99_meta/source/Pasted image 20250420223624.png",
+    "99_meta/source/Pasted image 20250420223604.png",
+    "99_meta/source/Pasted image 20250420223547.png",
+    "99_meta/source/Pasted image 20250420223519.png",
+    "99_meta/source/Pasted image 20250420223458.png",
+    "99_meta/source/Pasted image 20250420223427.png",
+    "99_meta/templates/draft.md",
     "99_meta/templates/base.md",
+    "01_frontend/ui-ux/animations/Framer Motion/index.md",
+    "01_frontend/ui-ux/ui-libraries/tailwindcss-plus",
+    "01_frontend/ui-ux/animations/three.js",
+    "01_frontend/ui-ux/ui-patterns/modern-minimal-ui/index.md",
+    "01_frontend/ui-ux/animations/Framer Motion",
+    "07_seo-performance/performance-optimization/tree-shaking.md",
+    "index.md",
+    "01_frontend/ui-ux/ui-patterns/inputs.md",
+    "01_frontend/ui-ux/layout/dashboards",
     "99_meta/inbox/todos/index.md",
-    "99_meta/templates/todo.md",
     "99_meta/inbox/todos/todo-2025.04.18-05.29.md",
     "99_meta/inbox/ideas/index.md",
-    "99_meta/templates/draft.md",
-    "Excalidraw/Drawing 2025-04-19 03.27.00.excalidraw.md",
-    "Excalidraw",
-    "99_meta/inbox/ideas/idea-2025.04.19-02.43.md",
-    "99_meta/templates/ideas.md",
-    "99_meta/inbox/ideas/Untitled.md",
-    "99_meta/meta/homepage",
-    "99_meta/inbox/todos/template.md",
-    "99_meta/inbox/draft/index.md",
-    "99_meta/inbox/draft",
-    "01_frontend/frameworks/react/index.md",
-    "99_meta/inbox/index.md",
-    "99_meta/templates/random.md",
-    "99_meta/templates/meeting.md",
-    "01_frontend/frameworks/vite/index.md",
-    "99_meta/inbox/meeting-notes/2025.04.18.md",
-    "01_frontend/foundations/index.md",
-    "01_frontend/frameworks/index.md",
-    "01_frontend/index.md",
-    "99_meta/inbox/random",
-    "99_meta/inbox/meeting-notes",
-    "99_meta/trash",
-    "99_meta/inbox/ideas",
-    "99_meta/inbox/todos",
-    "99_meta/excalidraw",
-    "99_meta/daily"
+    "99_meta/meta/index.md",
+    "99_meta/templates/index.md",
+    "07_seo-performance/ssr-ssg",
+    "07_seo-performance/performance-optimization",
+    "07_seo-performance/meta-tags",
+    "Untitled.canvas"
   ]
 }

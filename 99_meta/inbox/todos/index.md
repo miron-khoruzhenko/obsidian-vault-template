@@ -1,6 +1,8 @@
 ---
 title: Todos
-tags: [overview]
+tags:
+  - overview
+  - todo
 ---
 
 # ✅ All ToDo's

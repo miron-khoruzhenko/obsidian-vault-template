@@ -26,6 +26,6 @@ status: draft
 
 ## 🗂️ Resources / References
 
-- [ ] Add links here
+- [google link](https://www.google.com)
 `;
 %>
