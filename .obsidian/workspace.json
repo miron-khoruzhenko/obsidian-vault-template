@@ -1,0 +1,331 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a58a77f02d20b07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cb1fe5793b52a5c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "99_meta/meta/homepage/index.canvas",
+                "viewState": {
+                  "x": 37.87474380002769,
+                  "y": 19.50098068639331,
+                  "zoom": -0.04635563569173979
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d0cdacd94e6f59e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e16cb9810d77baa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d963ead0218b6cab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a3336f93e31cee2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "93970988d6e8c5b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          },
+          {
+            "id": "239b22ce71a3f4a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d7c17cf186da9d4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "86d1f5c9955c5e4d",
+        "type": "tabs",
+        "dimension": 21.668472372697725,
+        "children": [
+          {
+            "id": "2ab6c615f8033f31",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_frontend/frameworks/nextjs/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "33911b6694d4d9a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_frontend/frameworks/nextjs/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from index"
+            }
+          },
+          {
+            "id": "288732602e7092a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6af9200274a7976a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "01_frontend/frameworks/nextjs/index.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.9818178416392771,
+                  "close": false
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph of index"
+            }
+          },
+          {
+            "id": "5460e47b7f1558ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-19 03.27.00.excalidraw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Drawing 2025-04-19 03.27.00.excalidraw"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "15cf77c0f7575b14",
+        "type": "tabs",
+        "dimension": 37.81148429035753,
+        "children": [
+          {
+            "id": "a5594009eacc8fc1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8d6325fb783f988e",
+        "type": "tabs",
+        "dimension": 40.52004333694475,
+        "children": [
+          {
+            "id": "3a401ab0c7e8e9bd",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 0.533854166666667,
+                  "lineSizeMultiplier": 1.63125,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.9818178416392771,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "d963ead0218b6cab",
+  "lastOpenFiles": [
+    "99_meta/meta/homepage/index.canvas",
+    "Untitled.canvas",
+    "99_meta/inbox/todos/todo-2025.04.19-02.03.md",
+    "99_meta/inbox/draft/draft-2025.04.19-04.29.md",
+    "99_meta/inbox/ideas/idea-2025.04.19-02.44.md",
+    "01_frontend/foundations/accessibility/index.md",
+    "99_meta/templates/base.md",
+    "99_meta/inbox/todos/index.md",
+    "99_meta/templates/todo.md",
+    "99_meta/inbox/todos/todo-2025.04.18-05.29.md",
+    "99_meta/inbox/ideas/index.md",
+    "99_meta/templates/draft.md",
+    "Excalidraw/Drawing 2025-04-19 03.27.00.excalidraw.md",
+    "Excalidraw",
+    "99_meta/inbox/ideas/idea-2025.04.19-02.43.md",
+    "99_meta/templates/ideas.md",
+    "99_meta/inbox/ideas/Untitled.md",
+    "99_meta/meta/homepage",
+    "99_meta/inbox/todos/template.md",
+    "99_meta/inbox/draft/index.md",
+    "99_meta/inbox/draft",
+    "01_frontend/frameworks/react/index.md",
+    "99_meta/inbox/index.md",
+    "99_meta/templates/random.md",
+    "99_meta/templates/meeting.md",
+    "01_frontend/frameworks/vite/index.md",
+    "99_meta/inbox/meeting-notes/2025.04.18.md",
+    "01_frontend/foundations/index.md",
+    "01_frontend/frameworks/index.md",
+    "01_frontend/index.md",
+    "99_meta/inbox/random",
+    "99_meta/inbox/meeting-notes",
+    "99_meta/trash",
+    "99_meta/inbox/ideas",
+    "99_meta/inbox/todos",
+    "99_meta/excalidraw",
+    "99_meta/daily"
+  ]
+}

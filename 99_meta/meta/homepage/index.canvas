@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"312b1ef6c7660324","type":"text","text":"## Ideas\n```dataview\ntable file.frontmatter.title as \"Name\", created as \"Created\", status\nfrom \"99_meta/inbox/ideas\"\nwhere file.name != \"index\"\nsort created desc\n```\n","x":-220,"y":-420,"width":760,"height":180},
+		{"id":"c169e0f58b46ba53","type":"text","text":"## All task files\n```dataview\ntable created as \"Created\", status\nfrom \"99_meta/inbox/todos\"\nwhere type = \"task-list\"\nsort created desc\n```\n","x":-220,"y":-220,"width":760,"height":219},
+		{"id":"b802eb8e9ccaebce","type":"text","text":"## QuickAdd\n- ToDo's\n- Ideas\n- Drafts","x":-540,"y":-420,"width":304,"height":180},
+		{"id":"27bb6be44f1b0ed4","x":-540,"y":-220,"width":304,"height":579,"type":"text","text":"## All tasks\n```dataview\ntask\nfrom \"99_meta/inbox/todos\"\ngroup by file.name\nsort created desc\n```\n\n"}
+	],
+	"edges":[]
+}
