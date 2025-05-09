@@ -1,9 +1,10 @@
 {
 	"nodes":[
-		{"id":"312b1ef6c7660324","type":"text","text":"## Ideas\n```dataview\ntable file.frontmatter.title as \"Name\", created as \"Created\", status\nfrom \"99_meta/inbox/ideas\"\nwhere file.name != \"index\"\nsort created desc\n```\n\n","x":-220,"y":-420,"width":760,"height":360},
-		{"id":"b802eb8e9ccaebce","type":"text","text":"## QuickAdd\n- ToDo's\n- Ideas\n- Drafts","x":-540,"y":-420,"width":304,"height":180},
-		{"id":"27bb6be44f1b0ed4","type":"text","text":"## All tasks\n```dataview\ntask\nfrom \"99_meta/inbox/todos\"\ngroup by file.name\nsort created desc\n```\n\n","x":-540,"y":-220,"width":304,"height":579},
-		{"id":"c169e0f58b46ba53","type":"text","text":"## All task files\n```dataview\ntable created as \"Created\", status\nfrom \"99_meta/inbox/todos\"\nwhere type = \"task-list\"\nsort created desc\n```\n","x":-220,"y":-40,"width":760,"height":399}
+		{"id":"27bb6be44f1b0ed4","type":"text","text":"## All tasks\n```dataview\ntask\nfrom \"99_meta/inbox/todos\"\nsort created desc\ngroup by file.name\n```\n\n\n\n","x":-540,"y":-420,"width":304,"height":1000},
+		{"id":"2879826c248b79b5","type":"text","text":"## Active\n```dataview\ntask\nfrom \"99_meta/inbox/todos\"\nwhere !completed and file.name != \"index\"\nsort created asc\ngroup by file.name\n```\n\n\n\n","x":-220,"y":-420,"width":304,"height":1000},
+		{"id":"312b1ef6c7660324","type":"text","text":"## Ideas\n```dataview\ntable file.frontmatter.title as \"Name\"\nfrom \"99_meta/inbox/ideas\"\nwhere file.name != \"index\"\nsort created desc\n```\n\n","x":100,"y":-420,"width":460,"height":320},
+		{"id":"c169e0f58b46ba53","type":"text","text":"## All task files\n```dataview\ntable created as \"Created\"\nfrom \"99_meta/inbox/todos\"\nwhere type = \"task-list\"\nsort created desc\n```\n","x":100,"y":260,"width":460,"height":320},
+		{"id":"555b7185b56e8dda","type":"text","text":"## Excalidraws\n```dataview\nlist\nfrom \"99_meta/excalidraw\"\nwhere file.name != \"index\"\nsort created desc\n```\n\n","x":100,"y":-80,"width":460,"height":320}
 	],
 	"edges":[]
 }
